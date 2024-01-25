@@ -13,14 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="
-  display: flex; flex-direction: row; justify-content: space-between; width: 100%; box-sizing: border-box; padding: 5rem 3rem 1.8rem 5rem; gap: 200px;
-  background-image: linear-gradient(10deg, rgba(255,255,255, 0) 0%, rgba(255,255,255, 0) 33.333%,rgba(203, 203, 203, 0.05) 33.333%, rgba(203, 203, 203, 0.05) 66.666%,rgba(48, 48, 48, 0.05) 66.666%, rgba(48, 48, 48, 0.05) 99.999%),linear-gradient(295deg, rgba(90, 90, 90, 0.05) 0%, rgba(90, 90, 90, 0.05) 33.333%,rgba(23, 23, 23, 0.05) 33.333%, rgba(23, 23, 23, 0.05) 66.666%,rgba(71, 71, 71, 0.05) 66.666%, rgba(71, 71, 71, 0.05) 99.999%),linear-gradient(313deg, rgba(186, 186, 186, 0.05) 0%, rgba(186, 186, 186, 0.05) 33.333%,rgba(174, 174, 174, 0.05) 33.333%, rgba(174, 174, 174, 0.05) 66.666%,rgba(196, 196, 196, 0.05) 66.666%, rgba(196, 196, 196, 0.05) 99.999%),linear-gradient(356deg, rgba(2, 2, 2, 0.05) 0%, rgba(2, 2, 2, 0.05) 33.333%,rgba(110, 110, 110, 0.05) 33.333%, rgba(110, 110, 110, 0.05) 66.666%,rgba(207, 207, 207, 0.05) 66.666%, rgba(207, 207, 207, 0.05) 99.999%),linear-gradient(343deg, rgba(39, 39, 39, 0.05) 0%, rgba(39, 39, 39, 0.05) 33.333%,rgba(145, 145, 145, 0.05) 33.333%, rgba(145, 145, 145, 0.05) 66.666%,rgba(81,81,178, 0.05) 66.666%, rgba(81,81,178, 0.05) 99.999%),linear-gradient(90deg, rgb(232,16,73),rgb(42,225,242));
-">
-  <p style="display: flex; flex-direction: column; justify-content: center; font-size: 36px; border: 1px solid white; color: white; background-color: rgba(106,105,119,0.2); line-height: 1; padding: 1rem;
-    font-weight: 200; letter-spacing: 1px;
-  "><span>Hello</span></p>
-  <p style="width: 100%; text-align: right; text-wrap: balance; font-size: 36px; border: 1px solid white; color: white; background-color: rgba(106,105,119,0.2); line-height: 1; padding: 1rem;
-    font-weight: 200; letter-spacing: 1px;
-  "><span>I build software to meet business needs</span></p>
-</div>
+<img src="readme-banner.webp" width="850" />
