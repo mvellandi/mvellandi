@@ -14,16 +14,23 @@ Here are some ideas to get you started:
 -->
 
 <img src="readme-banner-v2.webp" width="850" />
-<style>
-  p {
-    font-size: 1.6rem;
-  }
-</style>
-<p>Hola</p>
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="js,result" data-user="Mamboleoo" data-slug-hash="XWJPxpZ" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Walkers - How to">
-  <span>See the Pen <a href="https://codepen.io/Mamboleoo/pen/XWJPxpZ">
-  Walkers - How to</a> by Louis Hoebregts (<a href="https://codepen.io/Mamboleoo">@Mamboleoo</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+# 
+This entails whatever it takes to make customers happy, reduce expenses, and increase revenue.
+
+I am a web developer skilled in the following:
+
+- **Languages**: Elixir, JavaScript, HTML, CSS
+- **Frontend**: LiveView, React, Tailwind
+- **Frameworks**: Phoenix, Next.js
+- **Design**: Figma
+- **CMS**: Sanity
+
+While these are my current strengths, I have used other languages and tech and can quickly pick up new ones.
+Currently, I am learning TypeScript.
+
+To see my portfolio, writing, and learn more about me:
+
+- [My Website](http://www.vellandi.net)
+- [LinkedIn](https://www.linkedin.com/in/mvellandi/)
+- [Twitter](https://twitter.com/servusmario)
