@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="readme-banner.webp" width="850" />
+<img src="readme-banner-v2.webp" width="850" />
+
+# 
+<p style="font-size: 1.6rem;">Hola</p>
