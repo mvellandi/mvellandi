@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 
 <img src="readme-banner-v2.webp" width="850" />
 
-# 
 <p style="font-size: 1.6rem;">Hola</p>
