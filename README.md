@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 # 
 Hi! I&apos;m a software engineer with a strong orientation toward product development and UX design. In the last few years, I've built up a portfolio, helped a professional client, and recently finished Dockyard Academy, a 3-month training for software development.
+
 I&apos;m eager to jump in, solve problems, and to whatever it takes to make customers happy, reduce expenses, and increase revenue.
 
 Aside from the tech skills below I&apos;m confident with, I have used other languages and tech and can quickly pick up new ones. Currently, I am learning Golang.
