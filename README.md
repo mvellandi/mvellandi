@@ -30,6 +30,7 @@ Aside from the tech skills below I&apos;m confident with, I have used other lang
 
 Lastly, I carry forward project management and writing skills from my previous career in content strategy.
 
+Please [contact me](https://www.vellandi.net/contact) if you'd like to chat about your project or just want to say hello.
 To see my portfolio, writing, and learn more about me:
 
 - [My Website](http://www.vellandi.net)
