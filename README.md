@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 <img src="readme-banner-v2.webp" width="850" />
 
 # 
-Hi! I&apos;m a software engineer with a strong orientation toward product development and UX design. In the last few years, I've built up a portfolio, helped a professional client, and completed a 3-month training for software development.
+Hi! I&apos;m a software engineer with a strong orientation toward product development and communications.
+I first began building websites in my early career, followed by frontend development, email design, and content strategy.
+Later, I began learning web development on my own and through training programs including [Dockyard Academy](https://academy.dockyard.com/) and [Boot.dev](https://boot.dev/).
 
-Aside from the tech skills below I&apos;m confident with, I can quickly learn and apply new ones.
+Aside from the tech skills below I&apos;m confident with, I have used other languages and tech and can quickly pick up new ones.
 
-- **Languages**: Elixir, JavaScript, HTML, CSS
+- **Languages**: Elixir, TypeScript, HTML, CSS
 - **Frontend**: LiveView, React, Tailwind
 - **Frameworks**: Phoenix, Next.js
 - **Design**: Figma
