@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="readme-banner-v2.webp" width="850" />
+<picture><img src="readme-banner-v2.webp" width="850" /></picture>
 
 # 
 Hi! I&apos;m a software engineer with a strong orientation toward product development and communications.
