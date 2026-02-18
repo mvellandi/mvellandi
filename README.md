@@ -22,11 +22,13 @@ Later, I began learning software engineering on my own and through training prog
 
 Aside from the tech skills below I&apos;m confident with, I have used other languages and tech and can quickly pick up new ones.
 
-- **Languages**: Elixir, TypeScript, HTML, CSS
-- **Frontend**: LiveView, React, Tailwind
-- **Frameworks**: Phoenix, Next.js
-- **Design**: Figma
-- **CMS**: Sanity
+- **Languages**: TypeScript, Elixir, HTML, CSS
+- **Frontend**: React, Tailwind, LiveView
+- **Frameworks**: TanStack Start, Next.js, Phoenix
+- **Authentication**: Zitadel
+- **Design**: Figma, Illustrator, Photoshop
+- **Video**: DaVinci Resolve, Kapwing
+- **CMS**: Sanity, Wordpress
 
 Lastly, I carry forward project management and writing skills from my previous career in content strategy.
 
@@ -35,6 +37,6 @@ To see my portfolio, writing, and learn more about me:
 
 - [My Website](http://www.vellandi.net)
 - [LinkedIn](https://www.linkedin.com/in/mvellandi/)
-- [Twitter](https://twitter.com/servusmario)
+- [Twitter](https://twitter.com/triforcekid7)
 
 ## How can I help you?
