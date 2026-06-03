@@ -20,14 +20,18 @@ Hi! I&apos;m a software engineer with a strong orientation toward product develo
 I first began building websites in my early career, followed by frontend development, email design, and content strategy.
 Later, I began learning software engineering on my own and through training programs including [Dockyard Academy](https://academy.dockyard.com/) and [Boot.dev](https://boot.dev/).
 
+All my new projects are self-hosted using Coolify and Docker.
+Currently I'm exploring agentic engineering using Codex, Claude Code, Pi, various models, and my own meta harness [Saddle](https://github.com/mvellandi/saddle).
 Aside from the tech skills below I&apos;m confident with, I have used other languages and tech and can quickly pick up new ones.
 
 - **Languages**: TypeScript, Elixir, HTML, CSS
+- **Backend Libraries**: Effect, oRPC, Drizzle, Zod
+- **AI Libraries**: Mastra
 - **Frontend**: React, Tailwind, LiveView
 - **Frameworks**: TanStack Start, Next.js, Phoenix
 - **Authentication**: Zitadel
-- **Design**: Figma, Illustrator, Photoshop
-- **Video**: DaVinci Resolve, Kapwing
+- **Design**: Pencil, Paper, Figma, Illustrator, Photoshop
+- **Video**: Hyperframes, Remotion, DaVinci Resolve, Kapwing
 - **CMS**: Sanity, Wordpress
 
 Lastly, I carry forward project management and writing skills from my previous career in content strategy.
