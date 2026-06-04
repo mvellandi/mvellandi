@@ -29,7 +29,7 @@ Aside from the tech skills below I&apos;m confident with, I have used other lang
 - **AI Libraries**: Mastra
 - **Frontend**: React, Tailwind, LiveView
 - **Frameworks**: TanStack Start, Next.js, Phoenix
-- **Authentication**: Zitadel
+- **Authentication**: Zitadel, Better Auth
 - **Design**: Pencil, Paper, Figma, Illustrator, Photoshop
 - **Video**: Hyperframes, Remotion, DaVinci Resolve, Kapwing
 - **CMS**: Sanity, Wordpress
